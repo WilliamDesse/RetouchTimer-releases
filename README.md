@@ -18,7 +18,9 @@ pour te poser la bonne question : *cette photo mérite-t-elle vraiment plus de t
 - **Statistiques** : par session, jour, projet ; temps récupérable, photos dans les temps, rythme.
 - **Impact** : montant facturé, heures de shooting et de tri → revenu par heure, valeur du temps gagné.
 - **Export** CSV + résumé prêt à analyser dans un tableur ou une IA.
-- **Tout reste sur ton Mac** : aucune donnée n'est envoyée nulle part.
+- **Tes données restent sur ton Mac** : photos, temps et statistiques ne sont jamais envoyés. Seule la licence est vérifiée en ligne.
+
+**Prix** : 7 jours d'essai gratuit, puis **licence à vie à 29 €** (un Mac, transférable) sur [la boutique RetouchTimer](https://buy.polar.sh/polar_cl_aElwOJNsdianjWNhf9xdJwOP2GsTxWXvt5kxH20SyEw).
 
 ### Installation
 
@@ -44,7 +46,9 @@ it only signals when a photo is taking longer than usual, so you can ask yoursel
 - **Statistics** per session, day and project: recoverable time, photos on time, pace.
 - **Impact**: amount billed, shoot and culling hours → revenue per hour, value of time saved.
 - **Export** CSV + summary ready for a spreadsheet or an AI.
-- **Everything stays on your Mac**: no data is sent anywhere.
+- **Your data stays on your Mac**: photos, times and statistics are never sent. Only the license is checked online.
+
+**Price**: 7-day free trial, then a **€29 lifetime license** (one Mac, transferable) from [the RetouchTimer store](https://buy.polar.sh/polar_cl_aElwOJNsdianjWNhf9xdJwOP2GsTxWXvt5kxH20SyEw).
 
 ### Installation
 
