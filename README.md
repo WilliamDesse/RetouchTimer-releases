@@ -13,7 +13,7 @@ RetouchTimer affiche un petit timer discret au-dessus de Lightroom Classic penda
 Il ne te met pas la pression : il te signale seulement quand une photo prend plus de temps que d'habitude,
 pour te poser la bonne question : *cette photo mérite-t-elle vraiment plus de temps ?*
 
-- **Seuils personnels** : calculés sur ton propre historique Lightroom, passe par passe (1re passe, 2e passe…).
+- **Seuils personnels** : calculés uniquement sur tes propres photos (ton historique Lightroom, puis tes premiers projets), passe par passe.
 - **Photos importantes (« héros »)** : elles ont droit à plus de temps ; tu choisis ce qui en fait un héro.
 - **Statistiques** : par session, jour, projet ; temps récupérable, photos dans les temps, rythme.
 - **Impact** : montant facturé, heures de shooting et de tri → revenu par heure, valeur du temps gagné.
@@ -24,8 +24,8 @@ pour te poser la bonne question : *cette photo mérite-t-elle vraiment plus de t
 
 1. Télécharge le dernier `RetouchTimer-x.y.z.pkg` dans **[Releases](../../releases)** (paquet signé et notarisé par Apple).
 2. Ouvre-le et suis l'installation : l'app va dans Applications, le module est ajouté à Lightroom Classic.
-3. Au premier lancement, RetouchTimer propose d'analyser tes catalogues (Lightroom fermé) pour calculer tes seuils.
-4. Redémarre Lightroom Classic, ouvre le module Développement : le timer apparaît.
+3. Au premier lancement, un assistant te guide : tes photos importantes, l'analyse de tes catalogues en lecture seule (facultative), la vérification du module dans Lightroom, le placement du timer.
+4. Les mises à jour se font ensuite depuis l'app : un bandeau propose de télécharger et d'installer la nouvelle version.
 
 **Configuration** : macOS 14 ou plus récent, Lightroom Classic (testé avec la version 15).
 
@@ -39,7 +39,7 @@ pour te poser la bonne question : *cette photo mérite-t-elle vraiment plus de t
 RetouchTimer shows a small, discreet timer above Lightroom Classic while you develop photos. It doesn't rush you:
 it only signals when a photo is taking longer than usual, so you can ask yourself whether it deserves more time.
 
-- **Personal thresholds** computed from your own Lightroom history, pass by pass.
+- **Personal thresholds** computed only from your own photos (your Lightroom history, then your first projects), pass by pass.
 - **Hero photos** get more time; you decide what makes a hero.
 - **Statistics** per session, day and project: recoverable time, photos on time, pace.
 - **Impact**: amount billed, shoot and culling hours → revenue per hour, value of time saved.
@@ -50,8 +50,8 @@ it only signals when a photo is taking longer than usual, so you can ask yoursel
 
 1. Download the latest `RetouchTimer-x.y.z.pkg` from **[Releases](../../releases)** (signed and notarized by Apple).
 2. Open it and follow the installer: the app goes to Applications, the plug-in is added to Lightroom Classic.
-3. On first launch, RetouchTimer offers to analyze your catalogs (with Lightroom closed) to compute your thresholds.
-4. Restart Lightroom Classic and open the Develop module: the timer appears.
+3. On first launch, an assistant guides you: your important photos, an optional read-only analysis of your catalogs, a plug-in check in Lightroom, and timer placement.
+4. Updates are then handled from the app: a banner offers to download and install the new version.
 
 **Requirements**: macOS 14 or later, Lightroom Classic (tested with version 15).
 
